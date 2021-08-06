@@ -1,1 +1,1 @@
-This is <a href="">Day 12</a> of my JavaScript learning project.
+This is <a href="https://cwang1996.github.io/LoremIpsum/">Day 12</a> of my JavaScript learning project.
