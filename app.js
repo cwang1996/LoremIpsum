@@ -39,3 +39,4 @@ const generateWords = () => {
 
 generate_btn.addEventListener('click', generateIpsum);
 generate_btn_words.addEventListener('click', generateWords);
+//update please
